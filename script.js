@@ -1,1 +1,1 @@
-let array1==['adi',2,true];
+let yourArray=['adi',2,true,3,'sum'];
